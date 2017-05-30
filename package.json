@@ -1,0 +1,12 @@
+{
+  "name": "wp-empty",
+  "version": "1.0.0",
+  "description": "",
+  "author": "tu4mo",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-sass": "^2.1.1"
+  },
+  "private": true
+}
