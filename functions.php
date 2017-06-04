@@ -12,7 +12,7 @@ function theme_setup() {
 add_action( 'after_setup_theme', 'theme_setup' );
 
 /**
- * Clean up wp_head
+ * Clean up <head>
  */
 remove_action( 'wp_head', 'rel_canonical' );
 remove_action( 'wp_head', 'feed_links', 2 );
